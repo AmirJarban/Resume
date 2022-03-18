@@ -143,6 +143,14 @@ body{
 .about p{
     color: #333;
 }
+.about ul{
+    margin-bottom: -20px ;
+}
+.about ul li{
+    margin-left: 18px;
+    color: #333;
+    text-transform: capitalize;
+}
 
 
 .skills .box h4{
